@@ -1,2 +1,1 @@
-# :construction_worker: Under Construction
-Docker for Serverless Applications, published by Packt
+# The codes of Docker for Serverless Applications are under construction :construction_worker:
