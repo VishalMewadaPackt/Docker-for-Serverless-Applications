@@ -1,1 +1,1 @@
-# The codes of Docker for Serverless Applications are under construction :construction_worker:
+# The code for this repository is under development :construction_worker:
